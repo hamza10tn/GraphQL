@@ -1,1 +1,2 @@
 # GraphQL
+Ce projet vise à développer l'API GraphQL pour la gestion des logements conventionnés, basée sur une situation problème globale. L'API permet aux étudiants de prendre rendez-vous pour visiter un logement parmi les options disponibles. Ce projet a pour objectif de comparer et comprendre les différences entre les architectures REST et GraphQL en appliquant les deux technologies sur la même étude de cas.
